@@ -1,0 +1,7 @@
+target/
+Uploads/
+uploads/
+.idea/
+.vscode/
+*.iml
+.git/
